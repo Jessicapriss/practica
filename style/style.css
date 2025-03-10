@@ -1,0 +1,28 @@
+.h1{
+    text-align: center;
+    border-top:-60px;
+}
+.Logo{
+    width: 200px;
+}
+header{
+    text-align: center;
+}
+nav li{
+    display: inline;
+    padding: 60px;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+.welcome{
+    padding: 20px;
+    background-color: rgb(92, 192, 145);
+    text-align: center;
+    color: white;
+}
